@@ -1,0 +1,4 @@
+Requirements
+1. Selenium Chromedriver for your version of Google Chrome and the path of the chromedriver file on your pc.
+2. Create a file with your password(pw="/Your Password/").
+
